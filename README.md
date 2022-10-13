@@ -14,9 +14,12 @@
 ---
 
 ### :woman_technologist: About Me :
-
+ 
+ <img width=15px height=15px src="https://cdn-icons-png.flaticon.com/128/3233/3233497.png"/> I am a front end developer on a mission to becoming a full stack developer.
+   
+- <img width=15px height=15px src="https://flagicons.lipis.dev/flags/4x3/sv.svg"/> I was born in El Salvador 
+- I enjoy spending time at home with my family, but during my free time I enjoy going out camping, mountain biking, 
 - :computer: I am a full stack developer 
-
 - :camping: :soccer: :mountain_biking_woman: Some things I enjoy doing are going camping, playing soccer, mountain biking
 
 ---
@@ -34,3 +37,4 @@
 <img height=30px width=30px src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-original.svg"/>
 <img height=30px width=30px src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/java/java-original.svg"/>
 </div>
+
