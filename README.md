@@ -53,4 +53,4 @@ I am a front end developer, on a mission to becoming a full stack developer. <im
 ---
 
 ###  <img height=25px width=25px src="https://cdn-icons-png.flaticon.com/128/3476/3476457.png"/> My portfolio:
-https://josselineguardado.com/
+- https://josselineguardado.com/
