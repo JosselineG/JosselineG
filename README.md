@@ -15,7 +15,7 @@
 
 ### :woman_technologist: About Me :
  
- <img width=15px height=15px src="https://cdn-icons-png.flaticon.com/128/3233/3233497.png"/> I am a front end developer on a mission to becoming a full stack developer.
+ <img width=15px height=15px src="https://cdn-icons-png.flaticon.com/128/3233/3233497.png"/> I am a front end developer, on a mission to becoming a full stack developer.
    
 - <img width=15px height=15px src="https://flagicons.lipis.dev/flags/4x3/sv.svg"/> I was born in El Salvador 
 - I enjoy spending time at home with my family, but during my free time I enjoy going out camping, mountain biking, 
