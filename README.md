@@ -14,9 +14,7 @@
  
 I am a front end developer, on a mission to becoming a full stack developer. <img width=20px height=20px src="https://cdn-icons-png.flaticon.com/128/3233/3233497.png"/>
  
-- <img width=15px height=15px src="https://cdn-icons-png.flaticon.com/128/1344/1344761.png"/> Recently graduated
-- <img width=15px height=15px src="https://cdn-icons-png.flaticon.com/128/2888/2888701.png"/>  I am ready to expand my knowledge and put it into practice
-- <img width=15px height=15px src="https://flagicons.lipis.dev/flags/4x3/sv.svg"/>  Born in El Salvador 
+- <img width=15px height=15px src="https://cdn-icons-png.flaticon.com/128/2888/2888701.png"/> I am ready to expand my knowledge and put it into practice
 - <img width=15px height=15px src="https://cdn-icons-png.flaticon.com/128/2988/2988036.png"/> Fun Facts: I enjoy going camping :camping:, playing soccer :soccer: and mountain biking :mountain_biking_woman:
 
 ---
